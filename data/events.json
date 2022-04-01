@@ -1,0 +1,17 @@
+[
+    null,
+    {
+       "name":"Bot",
+       "temp":"",
+       "event-type":"48",
+       "_id":"kbGcp",
+       "actions":[
+          {
+             "gameName":"!help",
+             "gameLink":"",
+             "activityType":"LISTENING",
+             "name":"Set Bot Game"
+          }
+       ]
+    }
+ ]

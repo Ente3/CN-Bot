@@ -1,0 +1,1790 @@
+[
+    null,
+    {
+       "name":"v2",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"DUsTS",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"CloudNet v2 out of order",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"Your question is related to CloudNet v2.\nHowever, V2 will no longer be supported since November 3rd, 2021.\nPlease use the latest CloudNet version so that we can help you as best as possible.\n\n**Download latest:**\nhttps://www.spigotmc.org/resources/cloudnet-v3-the-cloud-network-environment-technology.42059/",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Deine Frage bezieht sich auf CloudNet v2.\nV2 wird aber seid dem  03.11.2021 nicht mehr supportet.\nBitte nutze die neuste CloudNet Version, damit wir dir bestmöglich helfen können.\n\n**Download latest:**\nhttps://www.spigotmc.org/resources/cloudnet-v3-the-cloud-network-environment-technology.42059/",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"CloudNet v2 out of order"
+    },
+    {
+       "name":"firewall",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"xdjkE",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"Common mistake",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"Error: `Could not connect to a default or fallback server. Incorrectly configured address/port/firewall?`",
+                   "fields":[
+                      {
+                         "name":"Fix :flag_gb: English",
+                         "value":"Please use exactly the same Minecraft client version as your Minecraft server.\nFor example: 1.18.1 server with 1.18.1 clients.\n\nIf you are using the ViaVersion plugin, please use the latest version and only upload the plugin to your Spigot server.\nPlease also note that you may also need ViaRewind and ViaBackwards.",
+                         "inline":"false"
+                      },
+                      {
+                         "name":"Fix :flag_de: Deutsch",
+                         "value":"Bitte verwende genau dieselbe Minecraft-Client-Version wie die deines Minecraft-Servers.\nBeispiel: 1.18.1-Server mit 1.18.1-Clients.\n\nWenn du das ViaVersion-Plugin verwendest, benutze bitte die neueste Version und laden das Plugin nur auf den Spigot-Server hoch.\nBitte beachte auch, dass möglicherweise auch die Plugins ViaRewind und ViaBackwards benötigt werden.",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Could not connect to a default or fallback server. Incorrectly configured address/port/firewall?"
+    },
+    {
+       "name":"Potency",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"mHyQV",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"What is the potency?",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":":flag_gb: **English**\nThe potency is used to determine the importance of the permission.\nIn the case of positive numbers, the permission is granted with the corresponding strength; in the case of negative numbers, the permission is deducted with the corresponding strength.\n\n:flag_de: **Deutsch:**\nDie Potency dient dazu, die Wichtigkeit der Permission festzulegen. \nBei positiven Zahlen wird die Permission mit der entsprechenden Stärke vergeben, bei negativen Zahlen wird die Permission mit der entsprechenden Stärke abgezogen.",
+                   "fields":[
+                      
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Potency CloudPerms"
+    },
+    {
+       "name":"motd",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"VYUEJ",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                {
+                   "name":"Animate MOTD",
+                   "type":"PRIMARY",
+                   "id":"msg-button-bc04341",
+                   "row":"",
+                   "url":"",
+                   "emoji":"",
+                   "mode":"PERSISTENT",
+                   "time":"",
+                   "actions":[
+                      {
+                         "channel":"0",
+                         "varName":"",
+                         "message":"",
+                         "buttons":[
+                            
+                         ],
+                         "selectMenus":[
+                            
+                         ],
+                         "attachments":[
+                            
+                         ],
+                         "embeds":[
+                            {
+                               "title":"CloudNet Motd: SyncProxy",
+                               "url":"",
+                               "color":"00a3e4",
+                               "timestamp":"false",
+                               "imageUrl":"",
+                               "thumbUrl":"",
+                               "description":"**Animate MOTD**\nAdd more entries:\n```\"tabListConfigurations\": [\n      {\n        \"targetGroup\": \"Proxy\",\n        \"entries\": [\n          {\n            \"header\": \" \\n &b&o■ &8┃ &3&lCloudNet &8● &7Earthquake &8&l» &7&o%online_players%&8/&7&o%max_players% &8┃ &b&o■ &f \\n &8► &7Current server &8● &b%server% &8◄ \\n \",\n            \"footer\": \" \\n &7Powered by &8&l» &bOpusX.io &8▎ &7Discord &8&l» &bdiscord.gg/UNQ4wET \\n &8&o◣ &7&onext &3&l&ogeneration &7&onetwork &8&o◥ \\n\"\n          },\n          {\n            \"header\": \" \\n &3&o■ &8┃ &b&lCloudNet &8● &7Earthquake &8&l» &7&o%online_players%&8/&7&o%max_players% &8┃ &b&o■ &f \\n &8► &7Current server &8● &b%server% &8◄ \\n \",\n            \"footer\": \" \\n &7Powered by &8&l» &bOpusX.io &8▎ &7Discord &8&l» &bdiscord.gg/UNQ4wET \\n &8&o◣ &7&onext &3&l&ogeneration &7&onetwork &8&o◥ \\n\"\n          }\n        ],\n        \"animationsPerSecond\": 1.0\n      }\n    ],```",
+                               "fields":[
+                                  
+                               ],
+                               "author":"",
+                               "authorUrl":"",
+                               "authorIcon":"",
+                               "footerText":"",
+                               "footerIconUrl":""
+                            }
+                         ],
+                         "reply":true,
+                         "ephemeral":false,
+                         "tts":false,
+                         "overwrite":false,
+                         "dontSend":false,
+                         "editMessage":"0",
+                         "editMessageVarName":"",
+                         "storage":"0",
+                         "varName2":"",
+                         "name":"Send Message"
+                      }
+                   ]
+                }
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"CloudNet Motd: SyncProxy",
+                   "url":"https://cloudnetservice.eu/docs/3.4/modules/syncproxy",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"**Change your MOTD**\nThe configuration file is located under the following path:\n`modules/CloudNet-SyncProxy/config.json`\n\n**Disable MOTD**\nIf you want to turn off MOTDs empty the array. This should look like this:\n`\"motds\": [],`",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"**Ändere die MOTD**\nDie Konfigurationsdatei befindet sich unter folgendem Pfad:\n`modules/CloudNet-SyncProxy/config.json`\n\n**MOTD deaktivieren**\nWenn du die MOTDs ausschalten möchtest, leere den Array. Das sollte dann so aussehen:\n`\"motds\": [],`",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"CloudNet Motd: SyncProxy"
+    },
+    {
+       "name":"Permissions",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"VVaaT",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"Permission CloudNet uses",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"commands:\n  - cloudnet.command.cloudnet (Proxy)\n  - cloudnet.command.<Commandname> (Proxy)\n  - cloudnet.command.cloudsign (Server)\n  - cloudnet.command.cloudnpc (Server)\nsyncproxy:\n  - cloudnet.syncproxy.maintenance - Während Wartungen joinen\n  - cloudnet.syncproxy.fulljoin - Bei voller Proxy joinen\n  - cloudnet.syncproxy.notify- Über das Stoppen und Starten von Services informiert werden\nbridge:\n  - cloudnet.bridge.maintenance - Während Wartungen eines Tasks joinen\nsigns:\n  - cloudnet.signs.knockback.bypass - In der Nähe eines Schildes nicht zurückgestoßen werden\nncps:\n  - cloudnet.npcs.knockback.bypass - In der Nähe eines NCPS nicht zurückgestoßen werden\nchatcolor:\n  - cloudnet.chat.color - Farbiges schreiben im Chat",
+                   "fields":[
+                      
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Permission CloudNet uses"
+    },
+    {
+       "name":"Placeholder",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"gazZC",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"CloudNet Placeholders",
+                   "url":"https://pastebin.com/pg0WypHr",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"**Signs:**\n%task% ----------------------- The name of the task of the server on the sign\n%task_id% -------------------- The id of the service (example: Lobby-1 -> 1)\n%group% ---------------------- The targetGroup of the sign\n%name% ----------------------- The name of the service on the sign\n%uuid% ----------------------- The uuid of the service on the sign\n%node% ----------------------- The name of the node the service on the sign is running on\n%environment% ---------------- The environment of the service on the sign\n%life_cycle% ----------------- The current life cycle of the service on the sign\n%runtime% -------------------- The runtime of the service on the sign (Normally \"jvm\")\n%port% ----------------------- The port of the service on the sign\n%cpu_usage% ------------------ The current cpu usage of the service on the sign\n%threads% -------------------- The current amount of threads of the service on the sign\n%online% --------------------- \"Online\" or \"Offline\"\n%online_players% ------------- The current amount of online players of the service on the sign\n%max_players% ---------------- The current amount of max players of the service on the sign\n%motd% ----------------------- The current motd of the service on the sign\n%extra% ---------------------- The current extra of the service on the sign (can only be set with the API)\n%state% ---------------------- The current state of the service on the sign (can only be set with the API)\n%version% -------------------- The server version of the service on the sign\n%whitelist% ------------------ \"Enabled\" or \"Disabled\" - Spigots whitelist\n \n**Tablist Header/Footer:**\n%proxy% ---------------------- The name of the proxy the player is connected to\n%proxy_uniqueId% ------------- The uuid of the proxy the player is connected to\n%server% --------------------- The name of the server the player is connected to\n%online_players% ------------- The current amount of online players on the network\n%max_players% ---------------- The current amount of max players on the network\n%proxy_task_name% ------------ The name of the task of the proxy the player is connected to\n%task% ----------------------- The name of the task of the server the player is connected to\n%name% ----------------------- The name of the player\n%ping% ----------------------- The current ping of the player\n%time% ----------------------- The current time - Format: Hour:Minute:Second\n%group% ---------------------- The name of the players highest permission group\n%prefix% --------------------- The prefix of the players highest permission group\n%suffix% --------------------- The suffix of the players highest permission group\n%display% -------------------- The display of the players highest permission group\n%color% ---------------------- The color of the players highest permission group\n \n**Motd:**\n%proxy% ---------------------- The name of the proxy the motd has been sent from\n%proxy_uniqueId% ------------- The uniqueId of the proxy the motd has been sent from\n%task% ----------------------- The name of the task of the proxy the motd has been sent from\n%node% ----------------------- The node the proxy the motd has been sent from is running on\n%online_players% ------------- The current amount of online players on the network\n%max_players% ---------------- The current amount of max players on the network",
+                   "fields":[
+                      
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Placeholders CloudNet uses"
+    },
+    {
+       "name":"MySQL",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"VAeLk",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"CloudNet MySQL setup",
+                   "url":"https://cloudnetservice.eu/docs/3.4/modules/database-mysql",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"**Stop the cloud for this**, change *database_provider* to `mysql` (or what is set in the config of the MySQL module) in `local/registry`.\nNow just enter the data correctly in the MySQL module and start CloudNet again. Now everything should be saved in the MySQL database (**Previous data from H2 will not be automatically copied to the new MySQL database**)",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"**Dazu die Cloud stoppen**, in `local/registry` *database_provider* auf `mysql` (bzw. das, was in der Config des MySQL Moduls eingestellt ist) umstellen.\nJetzt nur noch die Daten im MySQL Modul korrekt eintragen und CloudNet wieder starten. Nun sollte alles in der MySQL Datenbank gespeichert werden (**Bisherige Daten aus H2 werden nicht automatisch in die neue MySQL Datenbank kopiert**)",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"CloudNet MySQL  setup"
+    },
+    {
+       "name":"me",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"pCmhz",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"\"me\" Output",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"Please go to your console and enter the command `me`.\nThen please paste the one from `me` into this channel.",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Bitte gehe in deine Konsole und gebe den Command `me` ein.\nDen von `me` dann bitte in diesen Channel pasten.",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Me Output"
+    },
+    {
+       "name":"ser",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"qgCVn",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"\"ser list\" Output",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"Please go to your console and enter the command `ser list`.\nThen please paste the one from `ser list` into this channel.",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Bitte gehe in deine Konsole und gebe den Command `ser list` ein.\nDen von `ser list` dann bitte in diesen Channel pasten.",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Me Output"
+    },
+    {
+       "name":"seri",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"dnoFi",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"\"ser <name> info\" Output",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"Please go to your console and enter the command `ser <name> info`.\nThen please paste the one from `ser <name> info` into this channel.\nFor <name> please enter the name of the affected service.\nFor example: Lobby-1",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Bitte gehe in deine Konsole und gebe den Command `ser <name> info` ein.\nDen von `ser <name> info` dann bitte in diesen Channel pasten.\nBei <name> bitte den Namen des betroffenen Services angeben.\nZum Beispiel: Lobby-1",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Me Output"
+    },
+    {
+       "name":"t",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"LkpUF",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"\"t task <name>\" Output",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"Please go to your console and enter the command `t task <name>`.\nThen please paste the one from `t task <name>` into this channel.\nFor <name> please enter the name of the affected service.\nFor example: Lobby",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Bitte gehe in deine Konsole und gebe den Command `t task <name>` ein.\nDen von `t task <name>` dann bitte in diesen Channel pasten.\nBei <name> bitte den Namen des betroffenen Services angeben.\nZum Beispiel: Lobby",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Tasks task Output"
+    },
+    {
+       "name":"cnpl",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"aEQUd",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"CloudNet Plugins",
+                   "url":"https://github.com/CloudNetService/CloudNet-v3/tree/development/cloudnet-plugins",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"In order to have the prefix, suffix and display settings of CloudPerms on your server, you must have the two plugins *cloudnet-simplenametags* and *cloudnet-chat* on your Minecraft server.\n**These are server plugins and not modules**\n\nDownload:\nhttps://github.com/CloudNetService/CloudNet-v3/tree/development/cloudnet-plugins",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Um die Prefix, Suffix und Display Einstellung von CloudPerms auf deinen Server zu haben musst die beiden Plugins *cloudnet-simplenametags* und *cloudnet-chat* auf deinen Minecraft Server haben.\n**Das sind Server Plugins und keine Module**\n\nDownload:\nhttps://github.com/CloudNetService/CloudNet-v3/tree/development/cloudnet-plugins",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"CloudNet Plugins"
+    },
+    {
+       "name":"Help",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"kdwlX",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                {
+                   "name":"Docs",
+                   "type":"LINK",
+                   "id":"msg-button-b9536ec",
+                   "row":"",
+                   "url":"https://cloudnetservice.eu/docs/",
+                   "emoji":"📋",
+                   "mode":"PERSISTENT",
+                   "time":"",
+                   "actions":[
+                      
+                   ]
+                },
+                {
+                   "name":"JavaDocs",
+                   "type":"LINK",
+                   "id":"msg-button-d1624ba",
+                   "row":"",
+                   "url":"https://cloudnetservice.eu/cloudnet/docs/",
+                   "emoji":"📋",
+                   "mode":"PERSISTENT",
+                   "time":"",
+                   "actions":[
+                      
+                   ]
+                }
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"CloudNet Support",
+                   "url":"https://cloudnetservice.eu/docs/",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"`!v2` -> CloudNet v2 out of order\n`!motd` -> CloudNet Motd: SyncProxy\n`!tablist` -> CloudNet Motd: SyncProxy\n`!potency` -> What is Potency CloudPerms\n`!permissions` -> Permission CloudNet uses\n`!placeholder` -> Placeholders CloudNet uses\n`!mysql` -> CloudNet MySQL  setup\n`!cnpl` -> CloudNet Plugins\n`!firewall` -> Not same Versions\n`!npc` -> NPC Config - empty inventory\n`!snapshot` -> Enable / disable snapshots\n`!sram` -> Add ram to Service\n`!cram` -> Add ram to Cloud\n\n**eZ Support**\n`!me` -> Me Output\n`!ser` -> Ser list Output\n`!t` -> T task <name> Output\n`!seri` -> Ser <name> info Output\n`!try` -> Try and see\n`!paste` -> Use of PasteServer\n`!json` -> Json Formatter\n`!log` -> Please send us your logs.\n\n**JavaDocs**\n`!docs <search>` -> Find something in the JavaDocs\n\n*Bot made by Ente_3#1101*",
+                   "fields":[
+                      
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Help list with commands"
+    },
+    {
+       "name":"try",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"HSHUG",
+       "actions":[
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"https://tryitands.ee/",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0"
+    },
+    {
+       "name":"update",
+       "permissions":"ADMINISTRATOR",
+       "permissions2":"NONE",
+       "restriction":"2",
+       "_id":"Fahup",
+       "actions":[
+          {
+             "condition":"0",
+             "comparison":"0",
+             "value":"1",
+             "branch":{
+                "iftrue":"0",
+                "iffalse":"1"
+             },
+             "name":"Check Parameters"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"CloudNet Update:\n!update <NEW VERSION (current: )>",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Update CloudNet Version"
+    },
+    {
+       "name":"npc",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"xqTDJ",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"NPC Config - empty inventories",
+                   "url":"https://cloudnetservice.eu/docs/3.3/modules/npc#sample-configuration-18-to-112",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"The standard NPC module config (`modules/CloudNet-NPCs/config.json` contains items that are only available on server versions 1.13+!\nIf you have an older server version, you have to adapt the items or alternatively you can use this template: https://cloudnetservice.eu/docs/3.3/modules/npc#sample-configuration-18-to-112",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Die Standard NPC-Modul Config (`modules/CloudNet-NPCs/config.json` enthält Items, die nur auf den Server Versionen 1.13+ verfügbar sind!\nWenn du eine ältere Server Version hast, musst du die Items anpassen oder kannst alternativ diese Vorlage verwenden: https://cloudnetservice.eu/docs/3.3/modules/npc#sample-configuration-18-to-112",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"NPC Config - empty inventory"
+    },
+    {
+       "name":"Paste",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"Qpcxo",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"Use of PasteServer",
+                   "url":"https://just-paste.it/",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"Please use Hastebin or something similar (e.g. https://just-paste.it/) to share logs or code, as it quickly becomes confusing in Discord with larger texts.",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Bitte nutze Hastebin oder Ähnliches (z. B. https://just-paste.it/), um Logs oder auch Code zu teilen, da es in Discord schnell unübersichtlich wird bei größeren Texten.",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Me Output"
+    },
+    {
+       "name":"Json",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"yiQIN",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"Json Formatter - Find Errors",
+                   "url":"https://jsonformatter.curiousconcept.com/",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"This JSON formatter formats JSON and shows errors:\nhttps://jsonformatter.curiousconcept.com/",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Dieser JSON Formatter formatiert JSON und zeigt Fehler an:\nhttps://jsonformatter.curiousconcept.com/",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Me Output"
+    },
+    {
+       "name":"sram",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"HMoqh",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"It seems like your service doesn't have enough ram.",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":"Fix :flag_gb: English",
+                         "value":"Add more RAM to your task:\n`t task <name> set maxHeapMemory <memory>`",
+                         "inline":"false"
+                      },
+                      {
+                         "name":"Fix :flag_de: Deutsch",
+                         "value":"Füge deinen Task mehr RAM hinzu:\n`t task <name> set maxHeapMemory <memory>`",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"It seems like your service doesn't have enough ram."
+    },
+    {
+       "name":"cram",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"jjukA",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"It seems like your cloud doesn't have enough ram.",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":"Fix :flag_gb: English",
+                         "value":"Add more RAM to your cloud by giving a new value in `config.json`:\n`  \"maxMemory\": <Memory in mb>,`",
+                         "inline":"false"
+                      },
+                      {
+                         "name":"Fix :flag_de: Deutsch",
+                         "value":"Füge deiner Cloud mehr RAM hinzu, indem du in der `config.json` einen neuen Wert gibst:\n`  \"maxMemory\": <Memory in mb>,`",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"It seems like your cloud  doesn't have enough ram."
+    },
+    {
+       "name":"Snapshot",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"CenXc",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"Enable / disable snapshots",
+                   "url":"https://discord.com/channels/325362837184577536/818777626663321671/820251319561486336",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"To activate snapshots, you must set the option `cloudnet.snapshots.use-snapshots` to `true` in the file `launcher.cnl` and then restart the cloud. In addition, you can also define a URL to select a specific snapshot variant. We will inform you of this when a snapshot is announced.\nIf snapshots are activated, the Cloud downloads the latest snapshot with every restart.\n\nTo stop using snapshots, stop the Cloud and set the `cloudnet.snapshots.use-snapshots` option in the `launcher.cnl` file back to `false`. Then delete the `launcher/versions` folder and restart the cloud.",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Um Snapshots zu aktivieren, müsst ihr in der Datei `launcher.cnl` die Option `cloudnet.snapshots.use-snapshots` auf `true` setzen und danach die Cloud neustarten. Zusätzlich dazu lässt sich auch eine URL definieren, um eine bestimmte Snapshot-Variante auszuwählen. Diese werden wir euch gegebenenfalls bei der Ankündigung eines Snapshots mitteilen.\nWenn Snapshots aktiviert sind, lädt die Cloud bei jedem Neustart den neusten Snapshot herunter.\n\nUm keine Snapshots mehr zu nutzen, müsst ihr die Cloud stoppen und die Option `cloudnet.snapshots.use-snapshots` in der Datei `launcher.cnl` wieder auf `false` setzen. Danach müsst ihr den Ordner `launcher/versions` löschen und anschließend die Cloud wieder starten.",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Enable / disable snapshots"
+    },
+    {
+       "name":"tablist",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"LrAaD",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"CloudNet Motd: SyncProxy",
+                   "url":"https://cloudnetservice.eu/docs/3.4/modules/syncproxy",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"**Change your Tablist**\nThe configuration file is located under the following path:\n`modules/CloudNet-SyncProxy/config.json`\n\n**Disable Tablist**\nIf you want to turn off the tablist empty the array. This should look like this:\n`\"tabListConfigurations\": [],`",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"**Ändere die Tablist**\nDie Konfigurationsdatei befindet sich unter folgendem Pfad:\n`modules/CloudNet-SyncProxy/config.json`\n\n**Tablist deaktivieren**\nWenn du die Tablist ausschalten möchtest, leere den Array. Das sollte dann so aussehen:\n`\"tabListConfigurations\": [],`",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"CloudNet Motd: SyncProxy"
+    },
+    {
+       "name":"log",
+       "permissions":"NONE",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"xPlYD",
+       "actions":[
+          {
+             "member":"1",
+             "varName":"",
+             "info":"21",
+             "storage":"1",
+             "varName2":"Tag",
+             "name":"Store Member Info"
+          },
+          {
+             "member":"1",
+             "varName":"",
+             "info":"16",
+             "storage":"1",
+             "varName2":"AvatarURL",
+             "name":"Store Member Info"
+          },
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"Please send us your logs.",
+                   "url":"",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"Please send us important logs so we can find the problem.\nLogs that might be important:\nCloudNet logs, Service logs (spigot/bungee etc)\n\nPlease send logs via paste websites `!paste`",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Bitte sende uns wichtige Logs, damit wir das Problem finden können.\nLogs, die wichtig sein könnten:\nCloudNet logs, Service logs (Spigot/Bungee usw)\n\nLogs bitte via Paste Webseiten senden `!paste`",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"${tempVars(\"Tag\")}",
+                   "footerIconUrl":"${tempVars(\"AvatarURL\")}"
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0",
+       "description":"Pls log"
+    }
+ ]
