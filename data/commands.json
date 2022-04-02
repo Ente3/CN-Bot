@@ -76,7 +76,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"CloudNet v2 out of order"
     },
     {
@@ -155,7 +155,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Could not connect to a default or fallback server. Incorrectly configured address/port/firewall?"
     },
     {
@@ -225,7 +225,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Potency CloudPerms"
     },
     {
@@ -358,7 +358,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"CloudNet Motd: SyncProxy"
     },
     {
@@ -428,7 +428,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Permission CloudNet uses"
     },
     {
@@ -498,7 +498,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Placeholders CloudNet uses"
     },
     {
@@ -577,7 +577,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"CloudNet MySQL  setup"
     },
     {
@@ -633,7 +633,7 @@
                       },
                       {
                          "name":":flag_de: Deutsch",
-                         "value":"Bitte gehe in deine Konsole und gebe den Command `me` ein.\nDen von `me` dann bitte in diesen Channel pasten.",
+                         "value":"Bitte gehe in deine Konsole und gebe den Command `me` ein.\nDen Outout von `me` dann bitte in diesen Channel pasten.",
                          "inline":"false"
                       }
                    ],
@@ -656,7 +656,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Me Output"
     },
     {
@@ -712,7 +712,7 @@
                       },
                       {
                          "name":":flag_de: Deutsch",
-                         "value":"Bitte gehe in deine Konsole und gebe den Command `ser list` ein.\nDen von `ser list` dann bitte in diesen Channel pasten.",
+                         "value":"Bitte gehe in deine Konsole und gebe den Command `ser list` ein.\nDen Outout von `ser list` dann bitte in diesen Channel pasten.",
                          "inline":"false"
                       }
                    ],
@@ -735,8 +735,8 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
-       "description":"Me Output"
+       "comType":"4",
+       "description":"ser list Output"
     },
     {
        "name":"seri",
@@ -791,7 +791,7 @@
                       },
                       {
                          "name":":flag_de: Deutsch",
-                         "value":"Bitte gehe in deine Konsole und gebe den Command `ser <name> info` ein.\nDen von `ser <name> info` dann bitte in diesen Channel pasten.\nBei <name> bitte den Namen des betroffenen Services angeben.\nZum Beispiel: Lobby-1",
+                         "value":"Bitte gehe in deine Konsole und gebe den Command `ser <name> info` ein.\nDen Outout von `ser <name> info` dann bitte in diesen Channel pasten.\nBei <name> bitte den Namen des betroffenen Services angeben.\nZum Beispiel: Lobby-1",
                          "inline":"false"
                       }
                    ],
@@ -814,8 +814,8 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
-       "description":"Me Output"
+       "comType":"4",
+       "description":"ser info Output"
     },
     {
        "name":"t",
@@ -855,7 +855,7 @@
              ],
              "embeds":[
                 {
-                   "title":"\"t task <name>\" Output",
+                   "title":"\"tasks task <name>\" Output",
                    "url":"",
                    "color":"00a3e4",
                    "timestamp":"false",
@@ -865,12 +865,12 @@
                    "fields":[
                       {
                          "name":":flag_gb: English",
-                         "value":"Please go to your console and enter the command `t task <name>`.\nThen please paste the one from `t task <name>` into this channel.\nFor <name> please enter the name of the affected service.\nFor example: Lobby",
+                         "value":"Please go to your console and enter the command `tasks task <name>`.\nThen please paste the one from `tasks task <name>` into this channel.\nFor <name> please enter the name of the affected service.\nFor example: Lobby",
                          "inline":"false"
                       },
                       {
                          "name":":flag_de: Deutsch",
-                         "value":"Bitte gehe in deine Konsole und gebe den Command `t task <name>` ein.\nDen von `t task <name>` dann bitte in diesen Channel pasten.\nBei <name> bitte den Namen des betroffenen Services angeben.\nZum Beispiel: Lobby",
+                         "value":"Bitte gehe in deine Konsole und gebe den Command `tasks task <name>` ein.\nDen Outout von `tasks task <name>` dann bitte in diesen Channel pasten.\nBei <name> bitte den Namen des betroffenen Services angeben.\nZum Beispiel: Lobby",
                          "inline":"false"
                       }
                    ],
@@ -893,7 +893,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Tasks task Output"
     },
     {
@@ -972,7 +972,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"CloudNet Plugins"
     },
     {
@@ -1067,7 +1067,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Help list with commands"
     },
     {
@@ -1105,7 +1105,8 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0"
+       "comType":"4",
+       "description":"U'll try and see"
     },
     {
        "name":"update",
@@ -1152,7 +1153,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Update CloudNet Version"
     },
     {
@@ -1231,7 +1232,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"NPC Config - empty inventory"
     },
     {
@@ -1310,8 +1311,8 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
-       "description":"Me Output"
+       "comType":"4",
+       "description":"Use paste servers"
     },
     {
        "name":"Json",
@@ -1389,8 +1390,8 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
-       "description":"Me Output"
+       "comType":"4",
+       "description":"Json formater"
     },
     {
        "name":"sram",
@@ -1468,7 +1469,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"It seems like your service doesn't have enough ram."
     },
     {
@@ -1547,7 +1548,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"It seems like your cloud  doesn't have enough ram."
     },
     {
@@ -1626,7 +1627,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Enable / disable snapshots"
     },
     {
@@ -1705,7 +1706,7 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"CloudNet Motd: SyncProxy"
     },
     {
@@ -1784,7 +1785,74 @@
              "name":"Send Message"
           }
        ],
-       "comType":"0",
+       "comType":"4",
        "description":"Pls log"
+    },
+    {
+       "name":"about",
+       "permissions":"ADMINISTRATOR",
+       "permissions2":"NONE",
+       "restriction":"1",
+       "_id":"segqW",
+       "actions":[
+          {
+             "channel":"0",
+             "varName":"",
+             "message":"https://discord.gg/hK4dNDckWC",
+             "buttons":[
+                
+             ],
+             "selectMenus":[
+                
+             ],
+             "attachments":[
+                
+             ],
+             "embeds":[
+                {
+                   "title":"About CloudNet Addons",
+                   "url":"https://discord.gg/hK4dNDckWC",
+                   "color":"00a3e4",
+                   "timestamp":"false",
+                   "imageUrl":"",
+                   "thumbUrl":"",
+                   "description":"",
+                   "fields":[
+                      {
+                         "name":":flag_gb: English",
+                         "value":"This Discord is an Unofficial CloudNet Support Discord.\nWe offer a promotion platform for developers who want to offer their CloudNet add-ons, modules and others.\nServer owners can exchange information with each other and with the developers.\n\nIn addition, we also offer limited general support on a voluntary basis,\nbecause the support in the CloudNet Discord can sometimes take a little longer.\n\n**The goal of this Discord is not to replace the CloudNet Community Discord, but to expand the capabilities of CloudNet.**",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":flag_de: Deutsch",
+                         "value":"Dieser Discord ist ein Inoffizieller CloudNet Support Discord.\nWir bieten eine Promotion Plattform, für Developer welche ihr CloudNet Add-ons, Module und andere anbieten möchten.\nServer Owner können sich hier untereinander, mit den Developern auch austauschen.\n\nZusätzlich bieten wir auch ein eingeschränkten generellen Support auf freiwilliger Basis an,\nda der Support im CloudNet Discord manchmal mehr etwas länger dauern kann.\n\n**Das Ziel dieses Discord ist es nicht den CloudNet Community Discord zu ersetzen, sondern um die Möglichkeiten CloudNet zu erweitern.**",
+                         "inline":"false"
+                      },
+                      {
+                         "name":":cloud: Official Cloudnet Discord",
+                         "value":"https://discord.gg/hK4dNDckWC",
+                         "inline":"false"
+                      }
+                   ],
+                   "author":"",
+                   "authorUrl":"",
+                   "authorIcon":"",
+                   "footerText":"",
+                   "footerIconUrl":""
+                }
+             ],
+             "reply":true,
+             "ephemeral":false,
+             "tts":false,
+             "overwrite":false,
+             "dontSend":false,
+             "editMessage":"0",
+             "editMessageVarName":"",
+             "storage":"0",
+             "varName2":"",
+             "name":"Send Message"
+          }
+       ],
+       "comType":"0"
     }
  ]
